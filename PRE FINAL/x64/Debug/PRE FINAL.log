@@ -1,0 +1,10 @@
+﻿  pre_final_functions.cpp
+c:\users\cream\source\repos\palindrom\pre final\pre_final_functions.cpp(28): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+c:\users\cream\source\repos\palindrom\pre final\pre_final_functions.cpp(59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pre_final_main.c
+c:\users\cream\source\repos\palindrom\pre final\pre_final_main.c(20): warning C4133: функция: несовместимые типы - из "wchar_t *" в "const char *"
+pre_final_main.obj : error LNK2019: ссылка на неразрешенный внешний символ palindrom_task1 в функции main
+pre_final_main.obj : error LNK2019: ссылка на неразрешенный внешний символ palindrom_task2 в функции main
+pre_final_main.obj : error LNK2019: ссылка на неразрешенный внешний символ palindrom_task3 в функции main
+pre_final_main.obj : error LNK2019: ссылка на неразрешенный внешний символ menu в функции main
+C:\Users\CREAM\source\repos\Palindrom\x64\Debug\PRE FINAL.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

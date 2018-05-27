@@ -1,0 +1,4 @@
+﻿  part2.cpp
+c:\users\cream\source\repos\palindrom\part2\part2.cpp(35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\cream\source\repos\palindrom\part2\part2.cpp(63): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  part2.vcxproj -> C:\Users\CREAM\source\repos\Palindrom\x64\Debug\part2.exe

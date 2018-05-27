@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Pclear.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\cream\source\repos\palindrom\pclear\source.cpp(42): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Pclear.vcxproj -> C:\Users\CREAM\source\repos\Palindrom\x64\Debug\part1.exe
